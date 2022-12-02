@@ -1,4 +1,4 @@
-public class Questions {
+public class Modify_Questions {
     public static void main(String[] args) {
         System.out.println("Name: Iliyas");
         System.out.println("Surname: Nartay");
